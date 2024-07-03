@@ -1,3 +1,4 @@
+![30-Days Salesforce Apex Programming Learning Journey](https://res.cloudinary.com/dj2j9slz5/image/upload/v1720009779/edulane.co-SalesForce-Apex-Programming_zpmwat.png)
 # Apex Programming: 30-Day Learning Plan
 
 Welcome to the 30-Day Apex Programming Learning Plan! This guide is designed to help you learn Apex, Salesforce's proprietary programming language, through a structured approach. By following this plan, you'll gain a solid understanding of Apex and its applications within the Salesforce platform.
